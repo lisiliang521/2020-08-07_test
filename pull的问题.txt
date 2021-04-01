@@ -1,0 +1,2 @@
+Failed to connect to github.com port 443: Timed out(Windows)
+git config --global --unset http.proxy
